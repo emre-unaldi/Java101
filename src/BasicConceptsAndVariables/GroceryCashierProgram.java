@@ -1,3 +1,4 @@
+package BasicConceptsAndVariables;
 import java.util.Scanner;
 public class GroceryCashierProgram {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package BasicConceptsAndVariables;
+
 import java.util.Scanner;
 public class CalculateAreaAndPerimeterCircle {
     public static void main(String[] args) {
