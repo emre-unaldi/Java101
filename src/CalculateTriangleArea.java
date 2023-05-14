@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class calculateTriangleArea {
+public class CalculateTriangleArea {
     public static void main(String[] args) {
         int firstEdge, secondEdge, thirdEdge;
         double perimeteorTriangle, uValue, areaTriangle;
