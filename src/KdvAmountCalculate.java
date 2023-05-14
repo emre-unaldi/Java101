@@ -12,9 +12,9 @@ public class KdvAmountCalculate {
         kdvAmount = amount * kdvRate;
         kdvAddedAmount = amount + kdvAmount;
 
-        System.out.println("KDV'siz tutar : " + amount);
-        System.out.println("KDV oranı : " + kdvRate);
-        System.out.println("KDV tutarı : " + kdvAmount);
-        System.out.println("KDV'li tutar : " + kdvAddedAmount);
+        System.out.println("KDV'siz tutar = " + amount);
+        System.out.println("KDV oranı = " + kdvRate);
+        System.out.println("KDV tutarı = " + kdvAmount);
+        System.out.println("KDV'li tutar = " + kdvAddedAmount);
     }
 }
