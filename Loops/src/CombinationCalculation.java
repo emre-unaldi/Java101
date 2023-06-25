@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FactorialCalculation {
+public class CombinationCalculation {
     public static void main(String[] args) {
         Integer n, r, combination = 1, nFactorial = 1, rFactorial = 1, nMinusRFactorial = 1;
         Scanner scanner = new Scanner(System.in);
