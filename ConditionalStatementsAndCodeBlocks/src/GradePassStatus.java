@@ -1,5 +1,3 @@
-package ConditionalStatementsAndCodeBlocks;
-
 import java.util.Scanner;
 
 public class GradePassStatus {

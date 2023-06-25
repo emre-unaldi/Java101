@@ -1,4 +1,3 @@
-package ConditionalStatementsAndCodeBlocks;
 import java.util.Scanner;
 public class HoroscopeFinderProgram {
     public static void main(String[] args) {
