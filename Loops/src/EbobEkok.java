@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class EbobEkok {
     public static void main(String[] args) {
         int numberOne, numberTwo, i = 1, ebob = 1, ekok = 1;
