@@ -1,5 +1,3 @@
-package BasicConceptsAndVariables;
-
 import  java.util.Scanner;
 public class GradeCalculateAverage {
     public static void main(String[] args) {

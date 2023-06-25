@@ -1,5 +1,3 @@
-package BasicConceptsAndVariables;
-
 import java.util.Scanner;
 public class CalculateTaximeter {
     public static void main(String[] args) {

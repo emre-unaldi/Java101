@@ -1,4 +1,3 @@
-package ConditionalStatementsAndCodeBlocks;
 import java.util.Scanner;
 public class SuggestActivityBasedOnTemperature {
     public static void main(String[] args) {

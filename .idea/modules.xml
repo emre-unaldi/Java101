@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicConceptsAndVariables/BasicConceptsAndVariables.iml" filepath="$PROJECT_DIR$/BasicConceptsAndVariables/BasicConceptsAndVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConditionalStatementsAndCodeBlocks/ConditionalStatementsAndCodeBlocks.iml" filepath="$PROJECT_DIR$/ConditionalStatementsAndCodeBlocks/ConditionalStatementsAndCodeBlocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
     </modules>
   </component>
 </project>
