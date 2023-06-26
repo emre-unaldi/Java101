@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class FibonacciSeries {
     public static void main(String[] args) {
         int count, total = 0;
@@ -18,3 +17,4 @@ public class FibonacciSeries {
         }
     }
 }
+

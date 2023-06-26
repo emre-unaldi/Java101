@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ConditionalStatementsAndCodeBlocks/ConditionalStatementsAndCodeBlocks.iml" filepath="$PROJECT_DIR$/ConditionalStatementsAndCodeBlocks/ConditionalStatementsAndCodeBlocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
     </modules>
   </component>
 </project>
