@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class PalindromeNumbers {
     static boolean isPalindrome(int number) {
         int temp = number, reverseNumber = 0, lastNumber;
