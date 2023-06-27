@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Java101.iml" filepath="$PROJECT_DIR$/Java101.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" />
     </modules>
   </component>
