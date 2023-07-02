@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/MathAndStringClass/MathAndStringClass.iml" filepath="$PROJECT_DIR$/MathAndStringClass/MathAndStringClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinesweeperGame/MinesweeperGame.iml" filepath="$PROJECT_DIR$/MinesweeperGame/MinesweeperGame.iml" />
       <module fileurl="file://$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" filepath="$PROJECT_DIR$/SalaryCalculator/SalaryCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" filepath="$PROJECT_DIR$/StudentInformationSystem/StudentInformationSystem.iml" />
     </modules>
